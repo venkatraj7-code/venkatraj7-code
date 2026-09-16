@@ -74,7 +74,7 @@ I'm continuously learning and building new projects to strengthen my development
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=venkatraj7-code&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=venkatraj7-code&show_icons=true&theme=tokyonight&hide_border=true" alt="Venkatraj's GitHub Stats" />
 </p>
 
 ---
